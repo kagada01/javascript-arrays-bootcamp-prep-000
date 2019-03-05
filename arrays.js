@@ -41,7 +41,7 @@ function destructivelyRemoveElementFromEndOfArray(array) {
 }
 ///
 function removeElementFromEndOfArray(array) {
-  array.slice();
+  array.splice();
   return array;
 }
 
