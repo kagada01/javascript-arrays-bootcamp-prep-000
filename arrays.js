@@ -16,7 +16,7 @@ function addElementToEndOfArray(chocolateBars) {
 }
 
 function destructivelyAddElementToEndOfArray(chocolateBars) {
-  chocolateBars.push("foo")
+  chocolateBars.push("foo");
   return chocolateBars;
 }
 
